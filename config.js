@@ -3,7 +3,7 @@ const CONFIG = {
     introTitle: 'minhngocdth',
     introDesc: `Vào một ngày nắng hạ.
      Trong tim anh có em.
-     Đôi lúc lạ bâng khuâng.
+     Đôi lúc lại bâng khuâng.
      Sao iu em đến thế ?`,
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
