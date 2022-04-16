@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "My Love",
-    introTitle: 'minhngocdth',
+    introTitle: 'Meow Meow',
     introDesc: `Vào một ngày nắng hạ.
      Trong tim anh có em.
      Đôi lúc lại bâng khuâng.
