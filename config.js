@@ -4,8 +4,8 @@ const CONFIG = {
     introDesc: `Mãi ngắm hoàng hôn em quên luôn trời tối.
     Mãi ngắm chị cười em quên luôn cả thanh xuân.`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    title: 'Vì mình quá thích cậu rồi. Phải làm sao, Phải làm sao ? 🥰',
+    desc: 'Mình quá si mê rồi. Giờ cậu mún tính thế nào ? ',
     btnYes: 'Làm người iu em nhá <33',
     btnNo: 'Hăm được đou :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao chị lại yêu em <3',
